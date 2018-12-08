@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.redapplenet.cloud</groupId>
-    <artifactId>register</artifactId>
+    <artifactId>register-center</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>registry_center</name>
+    <name>registry-center</name>
     <description>registry_center for Spring Boot</description>
 
     <parent>
